@@ -13,4 +13,4 @@ Technologies Used:
 
 Programming Language: Java
 Data Structures: Arrays, Linked Lists, Stacks, Queues, Priority Queues
-Algorithms: Sorting (Quick Sort, Merge Sort), Searching (Linear Search, Binary Search)
+
